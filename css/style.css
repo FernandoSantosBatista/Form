@@ -1,0 +1,42 @@
+.container{
+    background-color: #212832;
+    font-family: arial;
+    height: 54vh;
+    
+}
+
+h1{
+    font-family: Arial;
+    color: #ffff;
+}
+
+
+.nav{
+    background-color: #EEEEEE;
+    height: 10vh;
+    
+    
+}
+
+.footer{
+    background-color: #EEEEEE;
+    height: 15vh;
+}
+
+.navbar-brand{
+    height: 9vh;
+    background-color: #212529   ;
+    
+    
+}
+
+body {
+    background-color:#EEEEEE;
+}
+
+.header{
+    background-color: #212529   ;
+
+}
+
+
